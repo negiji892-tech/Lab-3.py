@@ -1,4 +1,4 @@
-## Author: Vikash rawat
+## Author: Ankur Singh Negi
 # Mini Project - Library Inventory Manager
 import sys
 import logging
@@ -74,4 +74,5 @@ def menu():
             break
 
 if __name__ == "__main__":
+
     menu()
