@@ -1,4 +1,4 @@
-## Author: Vikash rawat
+## Author: Ankur Singh Negi
 import json
 from pathlib import Path
 from .book import Book
@@ -44,4 +44,5 @@ class LibraryInventory:
             data = json.loads(raw)
             self.books = [Book(**x) for x in data]
         except Exception:
+
             self.books = []
