@@ -1,5 +1,5 @@
 ## 🙋 Author  
-**Vikash rawat**  
+**Ankur Singh Negi**  
 Library Inventory Manager — Python Mini Project
 # 📚 Library Inventory Manager  
 A lightweight, command-line based Library Inventory Management System built using Python and Object-Oriented Programming principles.
@@ -54,3 +54,4 @@ The system is simple, fast, and works on any machine with Python installed.
 Following the assignment requirement exactly.
 
 ---
+
